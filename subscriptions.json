@@ -1,0 +1,32 @@
+[
+    {
+        "id": "chicago_tribune_business",
+        "name": "Chicago Tribune: Business",
+        "url": "https://www.chicagotribune.com/arcio/rss/category/business/",
+        "format": "xml"
+    },
+    {
+        "id": "chicago_tribune_sports",
+        "name": "Chicago Tribune: Sports",
+        "url": "https://www.chicagotribune.com/arcio/rss/category/sports/",
+        "format": "xml"
+    },
+    {
+        "id": "nytimes_business",
+        "name": "New York Times: Business",
+        "url": "https://rss.nytimes.com/services/xml/rss/nyt/Business.xml",
+        "format": "xml"
+    },
+    {
+        "id": "nytimes_technology",
+        "name": "New York Times: Technology",
+        "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml",
+        "format": "xml"
+    },
+    {
+        "id": "reddit_marketing",
+        "name": "Reddit: Marketing",
+        "url": "https://www.reddit.com/r/Marketing/hot/.json?count=100",
+        "format": "json"
+    }
+]
